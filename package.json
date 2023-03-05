@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_learn",
+  "version": "1.0.0",
+  "description": "belajarnodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hikaricodedev/nodejslearn.git"
+  },
+  "keywords": [
+    "learnnodejs"
+  ],
+  "author": "diki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hikaricodedev/nodejslearn/issues"
+  },
+  "homepage": "https://github.com/hikaricodedev/nodejslearn#readme"
+}
