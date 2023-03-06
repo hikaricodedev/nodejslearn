@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/hikaricodedev/nodejslearn/issues"
   },
-  "homepage": "https://github.com/hikaricodedev/nodejslearn#readme"
+  "homepage": "https://github.com/hikaricodedev/nodejslearn#readme",
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  }
 }
